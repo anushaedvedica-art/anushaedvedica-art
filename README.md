@@ -1,56 +1,43 @@
-# Hi, I'm Anusha Anga!
+# Anusha Anga
 
-### Aspiring Data Analyst | SQL | Excel | Power BI | Tableau | Python
+### Data Analyst | Business & Operations Analytics
 
-I'm an aspiring Data Analyst with an MBA in Finance and Operations Management and four years of experience in operations and administration.
+I bring an MBA in Finance and Operations Management and four years of experience in operations and administration. I use data to understand business performance, investigate operational questions, and communicate clear, evidence-based findings.
 
-I enjoy working with data to identify patterns, evaluate business performance, and support data-driven decision-making. I'm building practical analytics projects to strengthen my skills and demonstrate my ability to solve business problems using data.
+I’m building a practical analytics portfolio and seeking **entry-level or junior Data Analyst, Business Analyst, MIS/Reporting Analyst, or Operations Analyst** opportunities.
 
-## Skills & Tools
+## Skills
 
-- **SQL:** Joins, CTEs, window functions, subqueries, aggregations, and customer retention analysis
-- **Microsoft Excel:** Data cleaning, PivotTables, formulas, KPI reporting, and dashboards
-- **Power BI:** Data modelling, DAX, and interactive dashboards
-- **Tableau:** Interactive dashboards, calculated fields, and LOD expressions
-- **Python:** Fundamentals, NumPy, pandas, and exploratory data analysis — continuing to develop practical proficiency
+| Area | Tools and techniques |
+|---|---|
+| SQL | Joins, CTEs, subqueries, window functions, aggregations |
+| Spreadsheets | Excel data cleaning, formulas, PivotTables, KPI reporting, dashboards |
+| BI and visualisation | Power BI, DAX, data modelling; Tableau dashboards, calculated fields, LOD expressions |
+| Python | pandas, NumPy, Matplotlib, exploratory data analysis |
+| Analysis | Data validation, KPI analysis, trend analysis, business recommendations |
 
-## Data Analytics Projects
+## Featured projects
 
-### 1. SuperStore Sales & Profitability Analysis
-**Tool:** Microsoft Excel
+### [NHS Outpatient Activity & Non-Attendance Analysis](https://github.com/anushaedvedica-art/nhs-outpatient-activity-analysis)
+**Power BI · Tableau · Excel**
 
-Analyzed sales transactions to evaluate revenue, costs, profitability, regional performance, and key business KPIs. Built an executive summary and dashboard to communicate business performance.
+Analysed outpatient activity and Did Not Attend (DNA) patterns, with provider-level comparisons and interactive dashboards. The project documents reporting-level overlaps, suppressed values, and other interpretation limits.
 
-### 2. Healthcare Operations Analysis
-**Tools:** SQL, Python, Power BI, Tableau
+### [Help Desk Ticket Analysis](https://github.com/anushaedvedica-art/help-desk-ticket-analysis)
+**Python · pandas · Matplotlib**
 
-Explored healthcare operations data to investigate patient visits, waiting times, appointment attendance, and departmental workload.
+Explored 43,352 help desk tickets, including ticket volume, issue type, priority, status, and resolution time. The analysis highlights that about 60% of tickets have an unknown priority and recommends validating the unusually long recorded resolution times before treating them as current service delays.
 
-### 3. Customer Churn & Retention Analysis
-**Focus:** Customer retention and churn patterns
+### [SuperStore Sales & Profitability Analysis](https://github.com/anushaedvedica-art/superstore-sales-profitability-analysis)
+**Microsoft Excel**
 
-Investigated customer churn across tenure, internet service, payment methods, and monthly charges to identify customer segments associated with higher churn.
+Reviewed e-commerce sales, profitability, regional and product performance, and business KPIs through an Excel analysis and dashboard. The project also documents data-quality and reconciliation items.
 
-### 4. Customer Service & Operations Analysis
-**Tool:** Python
-
-Developing a practical analysis of customer service operations, including ticket volumes, resolution performance, and operational KPIs.
-
-*Project descriptions and findings will be expanded as each project is documented and published.*
+[Browse my portfolio repositories](https://github.com/anushaedvedica-art?tab=repositories) · [Portfolio overview](https://github.com/anushaedvedica-art/data-analytics-portfolio)
 
 ## Education
 
-**MBA — Finance & Operations Management**  
-2024
+- **MBA, Finance & Operations Management** — 2024
+- **Bachelor of Commerce (B.Com)** — 2021
 
-## Career Interests
-
-I'm interested in opportunities such as:
-- Data Analyst
-- Business Analyst
-- MIS Executive / Reporting Analyst
-- Operations Analyst
-
-## Connect
-
-I'm building my portfolio and continuously improving my analytical skills. I'm open to opportunities where I can apply data analysis to practical business problems.
+I’m interested in opportunities where I can combine analytical skills with my operations background to support better business decisions. Feel free to connect with me here on GitHub.
